@@ -1,5 +1,8 @@
 #include <iostream>
 #include <string>
+
+//Aleksander Furnes
+
 int counter = 0;
 char reply;
 
