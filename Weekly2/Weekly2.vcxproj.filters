@@ -18,8 +18,5 @@
     <ClCompile Include="Tasks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="IgnoreThis.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
